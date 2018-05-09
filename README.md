@@ -2,4 +2,4 @@
 SpringとAWS学習のロードマップ
 
 # ざっくりマップ
-![](./Clinic BE RoadMap.png)
+![](./BriefRoadMap.png)
